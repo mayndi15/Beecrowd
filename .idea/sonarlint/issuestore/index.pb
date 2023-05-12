@@ -15,3 +15,7 @@ W
 'src/main/java/com/br/uri/AgeInDays.java,f\5\f5bc262e028a1c8ec5940c95700f17513e2159a2
 S
 #src/main/java/com/br/uri/Cells.java,6\f\6fdefef06bbb408b6a905db3be7958aa353c0f1c
+[
++src/main/java/com/br/uri/CellsAndCoins.java,9\4\94226214f107b4c8b49d8a894ae7cd09f59a6285
+]
+-src/main/java/com/br/uri/FuelConsumption.java,4\e\4e6272d5c5835d925b623e09df59e8a108cbbbf1
