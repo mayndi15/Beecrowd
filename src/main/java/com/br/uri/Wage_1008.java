@@ -2,22 +2,22 @@ package com.br.uri;
 
 import java.util.Scanner;
 
-public class Salary {
+public class Wage_1008 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         int number;
         int hour;
         double hourlyWage;
-        double salary;
+        double wage;
 
         number = sc.nextInt();
         hour = sc.nextInt();
         hourlyWage = sc.nextDouble();
 
-        salary = hourlyWage * hour;
+        wage = hourlyWage * hour;
 
         System.out.printf("NUMBER = " + number + "\n");
-        System.out.printf("SALARY = $ %.2f%n", salary);
+        System.out.printf("WAGE = $ %.2f%n", wage);
     }
 }

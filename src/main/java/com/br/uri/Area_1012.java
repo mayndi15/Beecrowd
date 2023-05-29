@@ -2,7 +2,7 @@ package com.br.uri;
 
 import java.util.Scanner;
 
-public class Area {
+public class Area_1012 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

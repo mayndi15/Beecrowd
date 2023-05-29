@@ -2,7 +2,7 @@ package com.br.uri;
 
 import java.util.Scanner;
 
-public class Consumption {
+public class Consumption_1014 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

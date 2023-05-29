@@ -2,23 +2,23 @@ package com.br.uri;
 
 import java.util.Scanner;
 
-public class Greater {
+public class Biggest_1013 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         int a;
         int b;
         int c;
-        int greaterAB;
-        int greaterABC;
+        int biggestAB;
+        int biggestABC;
 
         a = sc.nextInt();
         b = sc.nextInt();
         c = sc.nextInt();
 
-        greaterAB = (a + b + Math.abs(a - b)) / 2;
-        greaterABC = (greaterAB + c + Math.abs(greaterAB - c)) / 2;
+        biggestAB = (a + b + Math.abs(a - b)) / 2;
+        biggestABC = (biggestAB + c + Math.abs(biggestAB - c)) / 2;
 
-        System.out.println(greaterABC + " is greater");
+        System.out.println(biggestABC + " is biggest");
     }
 }

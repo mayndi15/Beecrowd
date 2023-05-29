@@ -2,7 +2,7 @@ package com.br.uri;
 
 import java.util.Scanner;
 
-public class DistanceBetweenTwoPoints {
+public class DistanceBetweenTwoPoints_1015 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

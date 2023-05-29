@@ -1,21 +1,21 @@
 package com.br.uri;
 
 import java.util.Scanner;
-
-public class SimpleSum {
+public class ExtremelyBasic_1001 {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         int A;
         int B;
-        int SUM;
+        int X;
 
         A = sc.nextInt();
         B = sc.nextInt();
+        X = A + B;
 
-        SUM = A + B;
-
-        System.out.println("SUM = " + SUM);
-
+        System.out.println("X = " + X);
     }
 }
+
+
