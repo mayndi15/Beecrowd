@@ -1,4 +1,4 @@
-package com.br.uri;
+package com.br.uri.beginner;
 
 public class HelloWorld_1000 {
     public static void main(String[] args) {

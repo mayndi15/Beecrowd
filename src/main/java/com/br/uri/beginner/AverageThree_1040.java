@@ -1,4 +1,4 @@
-package com.br.uri;
+package com.br.uri.beginner;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.br.uri;
+package com.br.uri.beginner;
 
 import java.util.Arrays;
 import java.util.Collections;
