@@ -1,0 +1,21 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×âÍ¿
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(°Ê½Ë
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ç‚Ï†
+a
+java:S1301""KReplace this "switch" statement by "if" statements to increase readability.(ç‚Ï†
+a
+java:S1301-"KReplace this "switch" statement by "if" statements to increase readability.(°Ê½Ë
+a
+java:S1301/"KReplace this "switch" statement by "if" statements to increase readability.(ç‚Ï†
+a
+java:S13018"KReplace this "switch" statement by "if" statements to increase readability.(ç‚Ï†
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öª¡Â
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ûá¤
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(â˜ßÿşÿÿÿÿ
+7	java:S131""Add a default case to this switch.(°Ê½Ë
+>	java:S131-""Add a default case to this switch.(°Ê½Ë8‹¹¸‰1

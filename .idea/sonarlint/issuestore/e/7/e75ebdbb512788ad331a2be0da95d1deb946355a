@@ -1,0 +1,18 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹…·çıÿÿÿÿ
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¤¤Œ”ûÿÿÿÿ8ÈëİŠŠ1
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ëşà€8ÉëİŠŠ1
+c
+java:S3457,"AFormat specifiers should be used instead of string concatenation.(å–²Ãøÿÿÿÿ8ÊëİŠŠ1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(å–²Ãøÿÿÿÿ8ËëİŠŠ1
+c
+java:S3457-"AFormat specifiers should be used instead of string concatenation.(ê¦ûŠúÿÿÿÿ8ËëİŠŠ1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ê¦ûŠúÿÿÿÿ8ËëİŠŠ1
+c
+java:S3457."AFormat specifiers should be used instead of string concatenation.(ÍûŒÂùÿÿÿÿ8ËëİŠŠ1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ÍûŒÂùÿÿÿÿ8ÌëİŠŠ1
+c
+java:S3457/"AFormat specifiers should be used instead of string concatenation.(’àÿÙÿÿÿÿÿ8ÌëİŠŠ1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(’àÿÙÿÿÿÿÿ8ÌëİŠŠ1
